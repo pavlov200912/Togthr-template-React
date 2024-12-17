@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Togthr-template-React/static/css/main.875f62a8.css",
-    "main.js": "/Togthr-template-React/static/js/main.c025d812.js",
+    "main.css": "/Togthr-template-React/static/css/main.2f129da2.css",
+    "main.js": "/Togthr-template-React/static/js/main.9a545c18.js",
     "index.html": "/Togthr-template-React/index.html",
-    "main.875f62a8.css.map": "/Togthr-template-React/static/css/main.875f62a8.css.map",
-    "main.c025d812.js.map": "/Togthr-template-React/static/js/main.c025d812.js.map"
+    "main.2f129da2.css.map": "/Togthr-template-React/static/css/main.2f129da2.css.map",
+    "main.9a545c18.js.map": "/Togthr-template-React/static/js/main.9a545c18.js.map"
   },
   "entrypoints": [
-    "static/css/main.875f62a8.css",
-    "static/js/main.c025d812.js"
+    "static/css/main.2f129da2.css",
+    "static/js/main.9a545c18.js"
   ]
 }
